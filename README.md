@@ -8,6 +8,9 @@ Diagnosis and repair of a CAN High/CAN Low short circuit on a converted 2019 Mer
 
 Діагностика та ремонт короткого замикання CAN High/CAN Low на переобладнаному кемпері Mercedes Sprinter 3500 2019 року.
 
+<p align="center">
+  <img src="Discr_sprinter.png" width="900">
+</p>
 ---
 
 🇺🇸 [English](#english)
@@ -153,15 +156,13 @@ No control modules required replacement.
 * docs/Before_Sprinter.pdf
 
 ### Images
+
 <p align="center">
-  <img src="images/photo_2026-06-30_10-07-00.jpg" width="500">
+  <img src="images/photo_2026-06-30_10-07-00.jpg" width="33%">
+  <img src="images/photo_2026-06-30_10-07-07.jpg" width="33%">
+  <img src="images/photo_2026-06-30_10-07-24.jpg" width="33%">
 </p>
-<p align="center">
-  <img src="images/photo_2026-06-30_10-07-07.jpg" width="500">
-</p>
-<p align="center">
-  <img src="images/photo_2026-06-30_10-07-24.jpg" width="500">
-</p>
+
 ---
 
 ## Lessons Learned
