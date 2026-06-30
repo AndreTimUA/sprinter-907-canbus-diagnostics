@@ -33,7 +33,6 @@ The issue was successfully diagnosed and repaired without replacing any electron
 | Year               | 2019                |
 | Engine             | OM642 3.0L V6 DOHC  |
 | Conversion Company | RB Components       |
-| VIN                | WD4FF4CD2KT016500   |
 
 ---
 
@@ -151,10 +150,10 @@ No control modules required replacement.
 
 ### Images
 
-* images/damaged-can-wire.jpg
-* images/launch-topology-before.jpg
-* images/launch-topology-after.jpg
-* images/interior-disassembly.jpg
+![CAN Wires for diagnostic](images/photo_2026-06-30_10-07-06.jpg.jpg)
+![CAN topology](images/photo_2026-06-30_10-07-24.jpg)
+![Wires](images/photo_2026-06-30_10-07-00.jpg)
+![BCM V2](images/photo_2026-06-30_10-07-07.jpg)
 
 ---
 
@@ -189,7 +188,6 @@ No control modules required replacement.
 | Рік                     | 2019                |
 | Двигун                  | OM642 3.0L V6 DOHC  |
 | Компанія-переобладнувач | RB Components       |
-| VIN                     | WD4FF4CD2KT016500   |
 
 ---
 
