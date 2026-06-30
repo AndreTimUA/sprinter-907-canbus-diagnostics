@@ -1,4 +1,8 @@
 # Mercedes Sprinter 907 CAN Bus Short Circuit Repair
+![Mercedes](https://img.shields.io/badge/Mercedes-Benz-black)
+![CAN Bus](https://img.shields.io/badge/CAN-Bus-blue)
+![X431](https://img.shields.io/badge/Launch-X431-green)
+![Diagnostics](https://img.shields.io/badge/Automotive-Diagnostics-red)
 
 Diagnosis and repair of a CAN High/CAN Low short circuit on a converted 2019 Mercedes Sprinter 3500 camper van.
 
@@ -133,9 +137,9 @@ No control modules required replacement.
 
 ## Tools Used
 
-* Launch X431 Elite Pro
-* Digital Multimeter - FNIRSI® DMC-100
-* Wire Tracer / Cable Tracker - Klein Tools VDV500
+* [Launch X431 Elite Pro] (https://www.launchx431online.com/products/launch-x431-pro3-v-elite-diagnostic-scanner-j2534-programming)
+* Digital Multimeter - [FNIRSI® DMC-100](https://www.fnirsi.com/products/dmc-100)
+* Wire Tracer / Cable Tracker - [Klein Tools VDV500] (https://www.kleintools.com/catalog/tone-probe/tone-probe-test-and-trace-kit)
 * ALLDATA DIY Service Information
 * Mercedes-Benz Wiring Diagrams
 
@@ -149,12 +153,15 @@ No control modules required replacement.
 * docs/Before_Sprinter.pdf
 
 ### Images
-
-![CAN Wires for diagnostic](images/photo_2026-06-30_10-07-06.jpg.jpg)
-![CAN topology](images/photo_2026-06-30_10-07-24.jpg)
-![Wires](images/photo_2026-06-30_10-07-00.jpg)
-![BCM V2](images/photo_2026-06-30_10-07-07.jpg)
-
+<p align="center">
+  <img src="images/photo_2026-06-30_10-07-00.jpg" width="500">
+</p>
+<p align="center">
+  <img src="images/photo_2026-06-30_10-07-07.jpg" width="500">
+</p>
+<p align="center">
+  <img src="images/photo_2026-06-30_10-07-24.jpg" width="500">
+</p>
 ---
 
 ## Lessons Learned
